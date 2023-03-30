@@ -1,74 +1,14 @@
 {
   "user": [
     {
-      "id": 1,
-      "username": "vitran",
-      "password": "123456"
+      "username": "phong@gmail.com",
+      "password": "12345689",
+      "id": 2
     },
     {
-      "id": 2,
-      "username": "admin",
-      "password": "admin"
-    },
-    {
-      "username": "vitran2",
-      "password": "1234",
-      "id": 3
-    },
-    {
-      "username": "vitran4",
-      "password": "1234",
-      "id": 4
-    },
-    {
-      "username": "sadsad",
-      "password": "123",
-      "id": 5
-    },
-    {
-      "username": "vitran",
-      "password": "123",
-      "id": 6
-    },
-    {
-      "username": "vitran",
-      "password": "123456",
-      "id": 7
-    },
-    {
-      "username": "vitran",
-      "password": "123456",
-      "id": 8
-    },
-    {
-      "username": "vitran",
-      "password": "123",
-      "id": 9
-    },
-    {
-      "username": "vitran",
-      "password": "asldjsalkdjsalkdljsa",
-      "id": 10
-    },
-    {
-      "username": "asdsad123",
+      "username": "nguyenngocphong@gmail.com",
       "password": "123123",
-      "id": 11
-    },
-    {
-      "username": "asdasd",
-      "password": "12312",
-      "id": 12
-    },
-    {
-      "username": "admin",
-      "password": "admin",
-      "id": 13
-    },
-    {
-      "username": "admin",
-      "password": "admin",
-      "id": 14
+      "id": 3
     }
   ]
 }

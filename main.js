@@ -2,7 +2,7 @@ let apiUser = "http://localhost:3000/user";
 const username = document.querySelector(".input-signup-username");
 const password = document.querySelector(".input-signup-password");
 const bntSignup = document.querySelector(".signup__signInButton");
-
+// signup
 bntSignup.addEventListener("click", (e) => {
   e.preventDefault();
   if (username.value == "" || password.value == "") {
